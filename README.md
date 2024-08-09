@@ -9,9 +9,9 @@
 - 🎉 Adoro festas de código! É quando eu corrijo bugs enquanto escuto música alta. 🎧🐞
  
 - 📫 Como chegar até mim: 
-* ![Markdown Linkedin](linkedin.png) [LinkedIn](https://www.linkedin.com/in/matheus-franklin-797756300/)
-* ![Markdown Whatsapp](whatsapp.png) +55 (22) 99770-5822
-* ![Markdown Gmail](gmail.png) matheus.franklin.campos@gmail.com
+*  [LinkedIn](https://www.linkedin.com/in/matheus-franklin-797756300/)
+*  +55 (22) 99770-5822
+*  matheus.franklin.campos@gmail.com
 <br><br>
  
 
